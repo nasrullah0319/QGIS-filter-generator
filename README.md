@@ -13,7 +13,7 @@ Aplikasi web sederhana untuk membantu membuat string filter QGIS berdasarkan daf
 - Download template Excel siap pakai.
 
 ## Cara Menggunakan
-1. Buka halaman GitHub Pages atau `index.html` secara lokal.
+1. Buka halaman [GitHub Pages](https://nasrullah0319.github.io/QGIS-filter-generator/) atau clone dan jalankan `index.html` secara lokal.
 2. Pilih jenis filter (IDBS atau IDSLS).
 3. Klik **Download Template Excel** untuk mengunduh format isian.
 4. Masukkan data di kolom A (mulai dari baris kedua).
